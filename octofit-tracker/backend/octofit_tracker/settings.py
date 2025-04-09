@@ -81,7 +81,7 @@ WSGI_APPLICATION = "octofit_tracker.wsgi.application"
 DATABASES = {
     'default': {
         'ENGINE': 'djongo',
-        'NAME': 'octofit_db',
+        'NAME': 'mongodb+srv://kefass:wolkk3fass@cluster0.h9ezj.mongodb.net/x-clone?retryWrites=true&w=majority&appName=Cluster0',
     }
 }
 
